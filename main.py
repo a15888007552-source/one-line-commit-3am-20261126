@@ -5,6 +5,7 @@ The joke is a commit message typed by a coding agent at 3am: the bug
 vanished for no reason, nothing was changed on purpose, and the only
 sensible next step is sleep before the bug notices it is gone.
 The entry is a single line of at most 139 characters.
+Verified length: 101 characters, no trailing newline.
 """
 
 import os
